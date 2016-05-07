@@ -1,0 +1,10 @@
+INDEX VERSION 1.126+C:\Projects\com.vorwardit\com.vorwardit.whackakitten\.metadata\.plugins\org.eclipse.jdt.core
+1182599912.index
+516711020.index
+2481969107.index
+2503228724.index
+288182662.index
+518779027.index
+1560521777.index
+49881591.index
+1284074322.index

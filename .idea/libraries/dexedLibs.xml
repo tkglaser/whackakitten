@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Whack-A-Kitten/bin/dexedLibs/appcompat_v7-3c127fc9766fafb42de9369b28eb50f5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Whack-A-Kitten/bin/dexedLibs/android-support-v4-1c76327affee6916e9834cf64438ccde.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Whack-A-Kitten/bin/dexedLibs/android-support-v7-appcompat-d06e4b7ce0000cbc07658f37278b176d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

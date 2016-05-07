@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.view.SurfaceHolder"/>
+<fullyQualifiedTypeName name="com.vorwardit.whackakitten.RenderThread"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="android.graphics.Canvas"/>
+<fullyQualifiedTypeName name="com.vorwardit.whackakitten.levels.ILevel"/>
+<fullyQualifiedTypeName name="com.vorwardit.whackakitten.levels.LevelFactory"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="android.view.Window"/>
+<fullyQualifiedTypeName name="android.view.WindowManager"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer.OnCompletionListener"/>
+<fullyQualifiedTypeName name="com.vorwardit.whackakitten.R.raw"/>
+<fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.graphics.Paint.Align"/>
+<fullyQualifiedTypeName name="android.content.res.Configuration"/>
+<fullyQualifiedTypeName name="android.content.pm.ActivityInfo"/>
+<fullyQualifiedTypeName name="com.vorwardit.whackakitten.HighScore"/>
+<fullyQualifiedTypeName name="android.util.TypedValue"/>
+</qualifiedTypeNameHistroy>

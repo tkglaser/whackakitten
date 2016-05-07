@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LunarLander/LunarLander.iml" filepath="$PROJECT_DIR$/LunarLander/LunarLander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whack-A-Kitten/Whack-A-Kitten.iml" filepath="$PROJECT_DIR$/Whack-A-Kitten/Whack-A-Kitten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appcompat_v7/appcompat_v7.iml" filepath="$PROJECT_DIR$/appcompat_v7/appcompat_v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/tests.iml" filepath="$PROJECT_DIR$/tests/tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LunarLander/tests/tests1.iml" filepath="$PROJECT_DIR$/LunarLander/tests/tests1.iml" />
+    </modules>
+  </component>
+</project>
+
